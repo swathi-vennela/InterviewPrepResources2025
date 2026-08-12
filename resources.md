@@ -23,6 +23,8 @@
 4. Alex Xu's book for HLD
 
 ## LinkedIn posts with resources or topics list
+- [System design roadmap](https://www.linkedin.com/posts/swadesh-kumar_system-design-notes-ugcPost-7492058964105490432-mDDL/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACp3VVYByQH5XXLvp3-kFMSwNpQK3EVtLTU) --> First two modules I have covered. Next two modules, yet to cover
+
 - [Some gitHub repos for System design, Front end interviews etc](https://www.linkedin.com/posts/scortier_5-github-repos-that-teach-you-more-than-any-share-7486451310079426560-aNiw/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACp3VVYByQH5XXLvp3-kFMSwNpQK3EVtLTU)
 - [Front end interview prep handbook](https://www.frontendinterviewhandbook.com/introduction)
 - [LLD learning path](https://www.linkedin.com/posts/arungoel0810_connections-interviews-hiring-share-7487546661326675968-Zs_b/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACp3VVYByQH5XXLvp3-kFMSwNpQK3EVtLTU) --> Questions list in order to practice
