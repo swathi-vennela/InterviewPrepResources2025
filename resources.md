@@ -8,6 +8,14 @@
 
 - [Neetcode Blind 75](https://neetcode.io/practice/practice/blind75) --> Shared by Hemant
 
+## C++ interview prep
+1. [Cherno's playlist](https://youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&si=5tuQagB-gwR7ZAaW)
+2. Cpp Nuts playlist on Multi-threading
+3. Concurrency questions on Leetcode practice
+4. [Cpp Nuts Cpp interview prep playlist](https://youtube.com/playlist?list=PLk6CEY9XxSIDy8qVHZV-Nf-r9f2BkRZ6p&si=zFzhyQ5FOK-5DFt7)
+5. [Cpp nuts Cpp interview advanced/experienced playlist](https://youtube.com/playlist?list=PLk6CEY9XxSIDVpUt0yxC0b3IqDk63U7Bg&si=kktowEvx8BPLMwGt)
+6. [Keerthi Purswanis #C++ important interview questions playlist](https://youtube.com/playlist?list=PLliXPok7ZonkJEe0cUbVZ3umyKbFA-Dd9&si=ihTfhOXew-lSssc2) 
+
 ## LLD
 1. Shreyansh Jain's playlist on YouTube
 2. [Coder Army playlist](https://youtube.com/playlist?list=PLQEaRBV9gAFvzp6XhcNFpk1WdOcyVo9qT&si=iWkulTQ5XxJE0-Ts) - Shared by Hemant
